@@ -81,3 +81,30 @@ body {
   background-color: lightcyan;
   border: 2px solid cyan;
 }
+
+/* footer section  */
+.footer-container {
+  background-color: lightblue;
+  border: 2px solid darkblue;
+  display: flex;
+  margin: 30px;
+  justify-content: space-evenly;
+}
+
+.footer-one,
+.footer-four {
+  height: 100px;
+  width: 350px;
+  background-color: lightpink;
+  border: 2px solid pink;
+  margin: 5px;
+}
+
+.footer-two,
+.footer-three {
+  height: 100px;
+  width: 200px;
+  background-color: lightpink;
+  border: 2px solid pink;
+  margin: 5px;
+}
